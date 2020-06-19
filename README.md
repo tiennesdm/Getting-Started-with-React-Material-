@@ -68,3 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# Getting-Started-with-React-Material-" 
 "# Getting-Started-with-React-Material-" 
+"# React-Auto_Logout" 
